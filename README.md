@@ -23,7 +23,7 @@ dict-fr-DELA-License|Lesser General Public License For Linguistic Resources
 The dict-fr-DELA file has undergone the following transformations:
 * conversion from UTF-16 LE to UTF-8
 * removal of MS-DOS end of lines
-* removal of duplicates
+* sort & removal of duplicates
 
 ### Generated files
 
