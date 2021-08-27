@@ -8,7 +8,7 @@ This package contains several dictionaries processed from [one of those made ava
 by the former [Laboratoire d'Automatique Documentaire et Linguistique](https://infolingu.univ-mlv.fr/LADL/Historique.html) (LADL),
 now integrated into [Institut Gaspard Monge](https://igm.univ-gustave-eiffel.fr/) (IGM) of the [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/).
 
-The selected dictionary is the inflected form DELA French dictionary in UTF-16 LE encoding, from March 16, 2006.
+The selected dictionary is the inflected form DELA French dictionary in UTF-16 LE encoding, from March 16, 2006r, with 683.824 simple entries for 102.073 different lemmas and 108.436 compounded entries for 83.604 different lemmas.
 
 ## FILES
 All files are installed in Python's */usr/local* equivalent, under *share/dict*.
@@ -17,7 +17,7 @@ All files are installed in Python's */usr/local* equivalent, under *share/dict*.
 
 Filename|Description
 ---|---
-dict-fr-DELA|Inflected form DELA French dictionary, with 683.824 simple entries for 102.073 different lemmas and 108.436 compounded entries for 83.604 different lemmas
+dict-fr-DELA|792.120 entries inflected form DELA French dictionary
 dict-fr-DELA-License|Lesser General Public License For Linguistic Resources
 
 The dict-fr-DELA file has undergone the following transformations:
@@ -30,16 +30,16 @@ The dict-fr-DELA file has undergone the following transformations:
 Filename|Description
 ---|---
 dict-fr-DELA.ascii|French words and compound words list (unaccented)
-dict-fr-DELA.unicode|French words and compound words list (accented)
+dict-fr-DELA.unicode|742.889 entries French words and compound words list (accented)
 dict-fr-DELA.combined|French words and compound words list (with both accented and unaccented words)
 dict-fr-DELA-proper_nouns.ascii|French proper nouns list (unaccented, sometimes compounded)
-dict-fr-DELA-proper_nouns.unicode|French proper nouns list (accented, sometimes compounded)
+dict-fr-DELA-proper_nouns.unicode|823 entries French proper nouns list (accented, sometimes compounded)
 dict-fr-DELA-proper_nouns.combined|French proper nouns list (with both accented and unaccented words, sometimes compounded)
 dict-fr-DELA-common-words.ascii|French common words list (unaccented)
-dict-fr-DELA-common-words.unicode|French common words list (accented)
+dict-fr-DELA-common-words.unicode|641.759 entries French common words list (accented)
 dict-fr-DELA-common-words.combined|French common words list (with both accented and unaccented words)
 dict-fr-DELA-common-compound-words.ascii|French common compound words list (unaccented)
-dict-fr-DELA-common-compound-words.unicode|French common compound words list (accented)
+dict-fr-DELA-common-compound-words.unicode|100.320 entries French common compound words list (accented)
 dict-fr-DELA-common-compound-words.combined|French common compound words list (with both accented and unaccented words)
 
 These generated files went through the following transformations:
