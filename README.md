@@ -8,7 +8,7 @@ This package contains several dictionaries processed from [one of those made ava
 by the former [Laboratoire d'Automatique Documentaire et Linguistique](https://infolingu.univ-mlv.fr/LADL/Historique.html) (LADL),
 now integrated into [Institut Gaspard Monge](https://igm.univ-gustave-eiffel.fr/) (IGM) of the [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/).
 
-The selected dictionary is the inflected form DELA French dictionary in UTF-16 LE encoding, from March 16, 2006r, with 683.824 simple entries for 102.073 different lemmas and 108.436 compounded entries for 83.604 different lemmas.
+The selected dictionary is the inflected form DELA French dictionary in UTF-16 LE encoding, from March 16, 2006, with 683.824 simple entries for 102.073 different lemmas and 108.436 compounded entries for 83.604 different lemmas.
 
 ## FILES
 All files are installed in Python's */usr/local* equivalent, under *share/dict*.
