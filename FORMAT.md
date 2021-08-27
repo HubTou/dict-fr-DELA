@@ -8,7 +8,7 @@ Les formes flèchies sont représentées par la syntaxe suivante:
 
 où :
 * *mot* peut être une entrée composée (avec espaces)
-* *séparateur* est le caractère de tabulation
+* *séparateur* est le caractère virgule
 * *lemme* est la forme non flèchie du mot (mot non accordé, verbe non conjugué, etc.), présente seulement quand elle est différente du *mot*
 
 ## Codification des catégories
