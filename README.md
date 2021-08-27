@@ -69,3 +69,4 @@ The original contents, as well as this package, are licensed under the [Lesser G
 [Laboratoire d'Automatique Documentaire et Linguistique](https://infolingu.univ-mlv.fr/LADL/Historique.html) (LADL) for the original contents.
 
 [Hubert Tournier](https://github.com/HubTou) for the package.
+
