@@ -8,7 +8,7 @@ This package contains several dictionaries processed from [one of those made ava
 by the former [Laboratoire d'Automatique Documentaire et Linguistique](https://infolingu.univ-mlv.fr/LADL/Historique.html) (LADL),
 now integrated into [Institut Gaspard Monge](https://igm.univ-gustave-eiffel.fr/) (IGM) of the [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/).
 
-The selected dictionary is the inflected form DELA French dictionary in UTF-16 LE encoding from March 16, 2006.
+The selected dictionary is the inflected form DELA French dictionary in UTF-16 LE encoding, from March 16, 2006.
 
 ## FILES
 All files are installed in Python's */usr/local* equivalent, under *share/dict*.
@@ -23,8 +23,6 @@ dict-fr-DELA-License|Lesser General Public License For Linguistic Resources
 The dict-fr-DELA file has undergone the following transformations:
 * conversion from UTF-16 LE to UTF-8
 * removal of MS-DOS end of lines
-* removal of escape backslashes
-* sort
 * removal of duplicates
 
 ### Generated files
@@ -45,6 +43,7 @@ dict-fr-DELA-common-compound-words.unicode|French common compound words list (ac
 dict-fr-DELA-common-compound-words.combined|French common compound words list (with both accented and unaccented words)
 
 These generated files went through the following transformations:
+* removal of escape backslashes
 * removal of lemma and grammatical info from dict-fr-DELA
 * lossless conversion of accents for the *\*-ascii* versions
 * combination of the *\*-ascii* and *\*-unicode* versions into the *\*-combined* ones (without duplicates)
