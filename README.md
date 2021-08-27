@@ -52,7 +52,7 @@ These generated files went through the following transformations:
 ## SEE ALSO
 [spell(1)](https://www.freebsd.org/cgi/man.cgi?query=spell) like tools,
 [anagram(6)](https://github.com/HubTou/anagram/blob/main/README.md),
-[conjuguer(1)](https://github.com/HubTou/conjuguer/blob/main/README.md),
+[conjuguer(1)](https://github.com/HubTou/conjuguer/blob/main/README.md)
 
 ## HISTORY
 DELA means "Dictionnaire Electronique du LADL" (LADL's electronic dictionaries). These dictionaries were initiated by the lab's founder, [Maurice Gross](https://fr.wikipedia.org/wiki/Maurice_Gross).
